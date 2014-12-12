@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WRCFix Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="summary">Status: %1$s</string>
+    <string name="invoke">invoke</string>
+    <string name="invoke_summary_off">off</string>
+    <string name="invoke_summary_on">AutoFix</string>
+    <string name="revoke">revoke</string>
+    <string name="title">Wifi Region Code Fix v%1$s</string>
+    <string name="confirm_boot">Confirm Reboot</string>
+    <string name="boot_dialog_msg">it\'s required to reboot your device. Do you want to do it now?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="in_progress">in Progress</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="install">Install.</string>
+    <string name="uninstall">Uninstall.</string>
+    <string name="rebooting">Rebooting</string>
+</resources>
